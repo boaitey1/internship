@@ -1,0 +1,61 @@
+a 
+{
+    text-decoration: none;
+    padding:8px 10px;
+    color: black;
+    border-radius: 5px;
+}
+li
+{
+    list-style-type: none;
+}
+#nav-logo
+{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: orange;
+    margin: 8px 0px 0px 10px;
+
+
+}
+#nav-cont,.textdark
+{
+    margin-top:0px;
+    padding: 0px;
+}
+
+.nav-link
+{
+    text-transform: uppercase;
+    display: inline-block;
+    font-weight: 800;
+    margin: 16px 0px 0px 0px;
+    padding: 0px;
+}
+a:hover
+{
+    color: orange;
+   
+}
+a.active
+{
+    background-color: orange;
+    -webkit-box-shadow:0px 0px 8px rgba(0,0,0,0.2)
+    
+}
+
+.footer-icon
+{
+    height: 2rem;
+    padding: 5px;
+    border-radius: 50%;
+    color: orange;
+    transition: 0.5s ease-in;
+}
+.footer-icon:hover
+{
+    color: whitesmoke;
+    background-color: orange;
+    transform: rotate(360deg) ;
+}
+

@@ -1,0 +1,39 @@
+#submit
+{
+    text-transform: uppercase;
+    font-weight: 700;
+    -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+}
+#mess,#mes,#telm,#emes
+{
+    color: red;
+    visibility: hidden;
+
+}
+
+form
+{
+    width: 400px;
+    margin: 50px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 23px rgba(0,0,0,0.2);
+}
+label
+{
+    font-weight: 700;
+    text-transform: capitalize;
+}
+#form-body
+{
+    padding: 25px;
+}
+#form-heading
+{
+   background-color: rgb(218, 212, 212); 
+   margin: 0px;
+   border-radius: 5px 5px 0px 0px;
+   font-size: 20px;
+   text-transform: capitalize;
+   padding: 10px;
+   
+}
